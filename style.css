@@ -152,7 +152,7 @@
   }
   
   #middle {
-    width: 8000px;
+    width: 5000px;
     background: #000;
 
   }
@@ -277,13 +277,13 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 300%;
+  width: 480%;
   height: 100vh;
 }
 .plane {
   /* define the size of your plane */
-  width: 290%;
-  max-width: 4000px;
+  width: 480%;
+  max-width: 6500px;
   height: 90vh;
   position: relative;
   top: 10vh;
